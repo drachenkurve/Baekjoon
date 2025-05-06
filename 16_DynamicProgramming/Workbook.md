@@ -4,7 +4,7 @@
 
 | 문제 분류 | 문제 번호 | 문제 | 해결 |
 | :--: | :--: | :--: | :--: |
-| 연습 문제 | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) |  |
+| 연습 문제 | 1463 | [1로 만들기](https://www.acmicpc.net/problem/1463) | 2025-05-06 |
 | 연습 문제 | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) |  |
 | 연습 문제 | 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) |  |
 | 연습 문제 | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) |  |
