@@ -39,9 +39,9 @@ using namespace std;
 // -> 이전의 해가 현재의 해에 포함됨 -> 최적 부분 구조
 
 // 숫자 X에서 가능한 방법의 최솟값
-int dp[1000001];
+inline int dp[1000001];
 
-void solve()
+inline void solve()
 {
 	int n;
 	cin >> n;
