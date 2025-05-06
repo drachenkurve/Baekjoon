@@ -8,7 +8,7 @@
 | 연습 문제 | 9095 | [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | 2025-05-06 |
 | 연습 문제 | 2579 | [계단 오르기](https://www.acmicpc.net/problem/2579) | 2025-05-06 |
 | 연습 문제 | 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | 2025-05-06 |
-| 연습 문제 | 11726 | [2×n 타일링](https://www.acmicpc.net/problem/11726) |  |
+| 연습 문제 | 11726 | [2×n 타일링](https://www.acmicpc.net/problem/11726) | 2025-05-07 |
 | 연습 문제 | 11659 | [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) |  |
 | 연습 문제 | 12852 | [1로 만들기 2](https://www.acmicpc.net/problem/12852) |  |
 | **기본 문제** | 1003 | [피보나치 함수](https://www.acmicpc.net/problem/1003) |  |
